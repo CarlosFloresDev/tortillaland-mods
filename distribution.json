@@ -5,7 +5,7 @@
     {
       "id": "tortillaland-2",
       "name": "TortillaLand 2",
-      "description": "Servidor TortillaLand 2 - 207 mods con neoforge 21.1.219",
+      "description": "Servidor TortillaLand 2 - 208 mods con neoforge 21.1.219",
       "address": "147.135.9.233:19606",
       "minecraft_version": "1.21.1",
       "mod_loader": "neoforge",
@@ -596,6 +596,14 @@
           "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/enchantwithmob-1.21.1-20.12.0.jar",
           "sha256": "67082914fa20270a94574fad35ebbaa28748190c1886529a111901a9533f07e6",
           "size": 567037,
+          "required": true
+        },
+        {
+          "name": "Enchantment Descriptions 1.21.1",
+          "filename": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "sha256": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
+          "size": 81847,
           "required": true
         },
         {
