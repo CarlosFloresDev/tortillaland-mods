@@ -12,6 +12,7 @@
       "mod_loader_version": "21.1.219",
       "icon": "🌮",
       "status": "online",
+      "configsUrl": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/configs.zip",
       "mods": [
         {
           "name": "Additionallanterns",
@@ -1096,7 +1097,7 @@
         {
           "name": "MineTraps 1.21 (V.3.0.2)",
           "filename": "MineTraps-1.21-(v.3.0.2).jar",
-          "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/MineTraps-1.21-(v.3.0.2).jar",
+          "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/MineTraps-1.21-v3.0.2.jar",
           "sha256": "079f3c4081341ff9f71c88683370c922577482d21cdc136df3d48e76d4a313d8",
           "size": 169884,
           "required": true
@@ -1160,7 +1161,7 @@
         {
           "name": "More Crafting Tables 1.21",
           "filename": "More Crafting Tables-neoforge-1.21-7.0.2.jar",
-          "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/More%20Crafting%20Tables-neoforge-1.21-7.0.2.jar",
+          "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/MoreCraftingTables-neoforge-1.21-7.0.2.jar",
           "sha256": "b9127226a6e13dbd5cc5ec9946602baf6b4702db08a7374860417136d0b21553",
           "size": 540952,
           "required": true
