@@ -5,7 +5,7 @@
     {
       "id": "tortillaland-2",
       "name": "TortillaLand 2",
-      "description": "Servidor TortillaLand 2 - 208 mods con neoforge 21.1.219",
+      "description": "Servidor TortillaLand 2 - 206 mods con neoforge 21.1.219",
       "address": "147.135.9.233:19606",
       "minecraft_version": "1.21.1",
       "mod_loader": "neoforge",
@@ -599,14 +599,6 @@
           "required": true
         },
         {
-          "name": "Enchantment Descriptions 1.21.1",
-          "filename": "enchdesc-neoforge-1.21.1-21.1.9.jar",
-          "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/enchdesc-neoforge-1.21.1-21.1.9.jar",
-          "sha256": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
-          "size": 81847,
-          "required": true
-        },
-        {
           "name": "Ender Pack 1.21.1",
           "filename": "ender_pack-merged-1.21.1-2.2.0.jar",
           "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/ender_pack-merged-1.21.1-2.2.0.jar",
@@ -804,14 +796,6 @@
           "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/golden_foods-merged-1.21.1-2.4.0.jar",
           "sha256": "f6ed34defe61db3c0cc12962e6fad5ca18e1ab090f4b2e174dc5dbf6eff4dae8",
           "size": 287555,
-          "required": true
-        },
-        {
-          "name": "GlobalXP 1.21.1",
-          "filename": "globalxp-neoforge-1.21.1-1.12.jar",
-          "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/globalxp-neoforge-1.21.1-1.12.jar",
-          "sha256": "eb99985140447bf721c8ad6f041ce2e9fda692502c6bacae08a1fcdf88dcd1d6",
-          "size": 45476,
           "required": true
         },
         {
