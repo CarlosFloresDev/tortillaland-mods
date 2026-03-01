@@ -1,11 +1,11 @@
 {
   "launcher_version": "1.0.0",
-  "generated_at": "2026-02-28T13:51:23.174Z",
+  "generated_at": "2026-03-01T21:23:19.883Z",
   "servers": [
     {
       "id": "tortillaland-2",
       "name": "TortillaLand 2",
-      "description": "TortillaLand 2 - 224 mods con neoforge 21.1.219",
+      "description": "TortillaLand 2 - 226 mods con neoforge 21.1.219",
       "address": "147.135.9.233:19606",
       "minecraft_version": "1.21.1",
       "mod_loader": "neoforge",
@@ -847,6 +847,14 @@
           "required": true
         },
         {
+          "name": "Fossilslegacy",
+          "filename": "fossilslegacy-1.4.9.jar",
+          "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/fossilslegacy-1.4.9.jar",
+          "sha256": "bc7bd81299a768217f8283a95e07ef9feb8f69c15d254523b6fd70c6f74cf324",
+          "size": 10906563,
+          "required": true
+        },
+        {
           "name": "FramedBlocks",
           "filename": "FramedBlocks-10.5.3.jar",
           "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/FramedBlocks-10.5.3.jar",
@@ -884,6 +892,14 @@
           "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/geckolib-neoforge-1.21.1-4.8.3.jar",
           "sha256": "f5bbf6f9f84021ff044e3debba00a0c03c3d3ffab3150bb72c0f92c8b8218a92",
           "size": 622121,
+          "required": true
+        },
+        {
+          "name": "Globalxp 1.21.1",
+          "filename": "globalxp-neoforge-1.21.1-1.12.jar",
+          "url": "https://github.com/CarlosFloresDev/tortillaland-mods/releases/download/v1/globalxp-neoforge-1.21.1-1.12.jar",
+          "sha256": "eb99985140447bf721c8ad6f041ce2e9fda692502c6bacae08a1fcdf88dcd1d6",
+          "size": 45476,
           "required": true
         },
         {
